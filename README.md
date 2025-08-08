@@ -16,8 +16,7 @@ Table1.xlsx, Supplementary Data 1.xlsx: Contain the source data to generate Figu
 
 Supplementary Data 2.xlsx: Contains the individual-night radial velocities for NGC 188 stars, used to evaluate cluster membership and identify binary/single stars.
 
-MESA data files
-Including Standard-history.data, Diffusion-history.data, Massloss-history.data, Rotation-29kms-history.data.
+MESA data files include Standard-history.data, Diffusion-history.data, Massloss-history.data, Rotation-29kms-history.data.
 Generated using the MESA code, these files include four stellar models: standard, diffusion, mass loss, and rotational mixing. They also serve as the source data for Figure 2.
 
 Reduced Spectra
